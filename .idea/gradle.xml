@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager (Kotlin)/task" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager (Kotlin)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager (Kotlin)/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager (Kotlin)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager (Kotlin)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager (Kotlin)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager (Kotlin)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Cinema Room Manager (Kotlin)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Characters. Char type/A capital letter or a digit" />
+            <option value="$PROJECT_DIR$/Topics/Characters. Char type/Compare Latin letters" />
+            <option value="$PROJECT_DIR$/Topics/Characters. Char type/Comparing numbers and characters" />
+            <option value="$PROJECT_DIR$/Topics/Characters. Char type/Operations allowed" />
+            <option value="$PROJECT_DIR$/Topics/Characters. Char type/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Difference between two doubles" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Find the value of the variable" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/Uses the Double in the calculations" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types/What is the result" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/For loops task" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/List indexes" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Print all elements" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Right Rotation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and lists/Theory" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Check the order" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Define a for-loop" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The roots of equation" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/The sum of N numbers" />
+            <option value="$PROJECT_DIR$/Topics/For loop and ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Statements about brackets in if" />
+            <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Reversing a number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Underscore" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/Unsigned integers" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Replenishment of cells in the warehouse" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Working hours" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Date and time formatting" />
+            <option value="$PROJECT_DIR$/Topics/String templates/Theory" />
+            <option value="$PROJECT_DIR$/Topics/String templates/What are string templates" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Dividing by zero" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle string exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Practice" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Too big for us" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Choose the correct option" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/The Answer is" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/The finally block" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/When expression/A simple calculator" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Completing a number evaluation program" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Creating a function to check number ranges" />
+            <option value="$PROJECT_DIR$/Topics/When expression/FTN-Numbers" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Find the output" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Just checking" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Statements" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Choose the correct ones" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The sequence 1 2 2 3 3 3" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The sum of elements" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/What does the code print" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
